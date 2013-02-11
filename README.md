@@ -1,23 +1,18 @@
 The DataZombies jQTouch fork
 =======
 
-If you find this fork useful please make a donation via PayPal (http://tinyurl.com/2fpmx27).
+Get updates via [Twitter](http://twitter.com/HeadDZombie). If you find this fork useful please make a donation via [PayPal](http://tinyurl.com/2fpmx27).
 
-
-Fixed
-------------------------------------------------------------
-
-- Fixed jqt.autotitles.js to honor hardcoded titles (and does back buttons, too). [demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/ext_autotitles)
 
 Enhancements 
 ------------------------------------------------------------
 
-- jqt.bars.js - Horizontal scrolling tabbar with badges; ([demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/main_tabbar/))
+- [jqt.bars.js](https://dl.dropbox.com/u/6058408/jQTouch/demos/main_tabbar/index.html) - Horizontal scrolling tabbar with badges.
 - Reworked Main demo that uses a global tabbar and iScroll (see above demo).
-- jqt.activityIndicator ([demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/ext_activityIndicator/)), a really cool, customizable object.
-- jqt.autotitles ([demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/ext_autotitles)), now sets the back button's text honoring any hardcoded text.
-- jqt.checkGroup ([demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/ext_checkGroup/)), for that to do list you've been putting off.
-- jqt.segmentedControl ([demo](http://web.me.com/djpinter1/iPhone/jqtouch/demos/ext_segmentedControl/))
+- [jqt.activityIndicator](https://dl.dropbox.com/u/6058408/jQTouch/demos/ext_activityIndicator/index.html), a really cool, customizable object.
+- [jqt.autotitles](https://dl.dropbox.com/u/6058408/jQTouch/demos/ext_autotitles/index.html), now sets the back button's text honoring any hardcoded text.
+- [jqt.checkGroup](https://dl.dropbox.com/u/6058408/jQTouch/demos/ext_checkGroup/index.html), for that to do list you've been putting off.
+- [jqt.segmentedControl](https://dl.dropbox.com/u/6058408/jQTouch/demos/ext_segmentedControl/index.html)
 
 
 jQTouch
@@ -52,12 +47,8 @@ Jonathan Stark has created an excellent introduction to jQTouch as part of his b
 Credits
 -------
 
-Created by [David Kaneda](http://www.davidkaneda.com).
+Created by [David Kaneda](http://www.davidkaneda.com). This fork maintained by [Daniel J. Pinter](http://www.linkedin.com/in/dpinter).
 
-Maintained by [Thomas @ BeeDesk] (http://www.linkedin.com/in/thomasyip), [Jonathan Stark](http://jonathanstark.com/).
-
-Special thanks to [pinch/zoom](http://www.pinchzoom.com/).
-
-(c) 2009-2011 by jQTouch project members.
+(c) 2009-2013 by jQTouch project members.
 See LICENSE.txt for license.
 
